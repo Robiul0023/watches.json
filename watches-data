@@ -1,0 +1,51 @@
+ [
+    {
+      "id": 1,
+      "brand": "Rolex",
+      "model": "Submariner",
+      "price": 9500,
+      "type": "Automatic",
+      "waterResistant": true
+    },
+    {
+      "id": 2,
+      "brand": "Omega",
+      "model": "Speedmaster",
+      "price": 6700,
+      "type": "Manual",
+      "waterResistant": true
+    },
+    {
+      "id": 3,
+      "brand": "Casio",
+      "model": "G-Shock GA2100",
+      "price": 120,
+      "type": "Quartz",
+      "waterResistant": true
+    },
+    {
+      "id": 4,
+      "brand": "Seiko",
+      "model": "Prospex Turtle",
+      "price": 500,
+      "type": "Automatic",
+      "waterResistant": true
+    },
+    {
+      "id": 5,
+      "brand": "Apple",
+      "model": "Watch Series 9",
+      "price": 399,
+      "type": "Smartwatch",
+      "waterResistant": true
+    },
+    {
+      "id": 6,
+      "brand": "Tissot",
+      "model": "Le Locle",
+      "price": 750,
+      "type": "Automatic",
+      "waterResistant": false
+    }
+  ]
+
